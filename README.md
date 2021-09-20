@@ -1,4 +1,6 @@
 # ClipIt-PixelDraw
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/ml-showcase/notebook/r1nhpeth7yizebd?file=PixelDraw.ipynb)
+
 
 ## Creating your first Gradient Workflow for classifying the Iris dataset
 
@@ -15,4 +17,3 @@ To do this tutorial, you need an account with Gradient. If you want to modulate 
 It is recommended that you move onto the following tutorial after completing this one:  [End-to-end example: Deep Learning Recommenders in TensorFlow](https://docs.paperspace.com/gradient/get-started/tutorials-list/end-to-end-example)
 
 
-[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/ml-showcase/notebook/r1nhpeth7yizebd?file=PixelDraw.ipynb)
