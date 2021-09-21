@@ -1,6 +1,3 @@
 [submodule "taming_transformers"]
 	path = taming_transformers
 	url = https://github.com/CompVis/taming-transformers.git
-[submodule "clipit"]
-	path = clipit
-	url = https://github.com/dribnet/clipit
