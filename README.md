@@ -5,7 +5,7 @@
 ## Use Gradient Notebooks to Launch ClipIt PixelDraw and Generate Pixel Art
 ### Usage
 
-To run this notebook , you need an account with Paperspace Gradient. [Sign up today to gain access to powerful GPU's through the cloud, and much more.](https://console.paperspace.com/)
+To run this notebook , you need an account with Paperspace Gradient. [Sign up today to gain access to powerful GPU's through the cloud, and much more.](https://gradient.run/)
 
 
 
