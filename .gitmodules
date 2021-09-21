@@ -4,3 +4,9 @@
 [submodule "clipit"]
 	path = clipit
 	url = https://github.com/Jameshskelton/clipit.git
+[submodule "taming-transformers"]
+	path = taming-transformers
+	url = https://github.com/CompVis/taming-transformers.git
+[submodule "CLIP"]
+	path = CLIP
+	url = https://github.com/openai/CLIP
