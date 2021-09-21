@@ -3,4 +3,4 @@
 	url = https://github.com/CompVis/taming-transformers.git
 [submodule "clipit"]
 	path = clipit
-	url = https://github.com/dribnet/clipit.git
+	url = https://github.com/Jameshskelton/clipit.git
