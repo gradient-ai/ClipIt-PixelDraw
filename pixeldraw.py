@@ -37,4 +37,3 @@ settings = clipit.apply_settings()
 clipit.do_init(settings)
 clipit.do_run(settings)
 
-#   --result-dir=
