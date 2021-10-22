@@ -1,6 +1,8 @@
 # ClipIt-PixelDraw
 [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/ml-showcase/notebook/r1nhpeth7yizebd?file=PixelDraw.ipynb)
 
+*This notebook is currently not forkable. Follow the video instructions below to create your own, and this notice will be removed when the issue is resolved*
+
 
 ## Use Gradient Notebooks to Launch ClipIt PixelDraw and Generate Pixel Art
 ### Usage
