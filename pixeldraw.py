@@ -23,7 +23,11 @@ import clipit
 ## these are good settings for pixeldraw
 clipit.reset_settings()
 clipit.add_settings(prompts=prompts, aspect=aspect)
-clipit.add_settings(quality="better", scale=2.5)
+
+# The quality setting affects the quality of the output images
+# use 'better' to raise the quality, but using better on the Free-GPU instances will cause an OOM error
+# use 'draft' to lower it
+clipit.add_settings(quality="normal", scale=2.5)
 clipit.add_settings(use_pixeldraw=use_pixeldraw)
 
 
