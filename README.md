@@ -2,6 +2,8 @@
 
 ## Use Gradient Notebooks to Launch ClipIt PixelDraw and Generate Pixel Art
 
+[![Run on Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/ClipIt-PixelDraw?machine=Free-GPU)
+
 ### Instructions for setup
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Z_9iGP9fsDk/0.jpg)](https://www.youtube.com/watch?v=Z_9iGP9fsDk)
